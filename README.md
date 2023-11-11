@@ -6,7 +6,8 @@
 Contains files based on SQL queries, queries contain multiple SQL statements such as the below.
 
 <h2>Tool used</h2>
-Postgre SQL
+
+<h3>Postgre SQL</h3>
 
 
 <li>Select</li>
